@@ -1,0 +1,205 @@
+\begin{thebibliography}{10}
+
+\bibitem{Balaras.2007}
+Constantinos~A. Balaras, Athina~G. Gaglia, Elena Georgopoulou, Sevastianos
+  Mirasgedis, Yiannis Sarafidis, and Dimitris~P. Lalas.
+\newblock European residential buildings and empirical assessment of the
+  hellenic building stock, energy consumption, emissions and potential energy
+  savings.
+\newblock {\em Building and Environment}, 42(3):1298--1314, 2007.
+
+\bibitem{Bell.2000}
+Philip Bell.
+\newblock {\em {G}{R}{E}{G}{W}{T} and {T}{A}{B}{L}{E} macros --- {U}ser guide}.
+\newblock Australian Bureau of Statistics ({A}{B}{S}), Canberra, 2000.
+
+\bibitem{Caputo.2013}
+Paola Caputo, Gaia Costa, and Simone Ferrari.
+\newblock A supporting method for defining energy strategies in the building
+  sector at urban scale.
+\newblock {\em Energy Policy}, 55:261--270, 2013.
+
+\bibitem{Clarke.1987}
+Martin Clarke and Einar Holm.
+\newblock Microsimulation methods in spatial analysis and planning.
+\newblock {\em Geografiska Annaler. Series B, Human Geography}, 69(2):pp.
+  145--164, 1987.
+
+\bibitem{DallO.2012}
+Giuliano Dall'O', Annalisa Galante, and Marco Torri.
+\newblock A methodology for the energy performance classification of
+  residential building stock on an urban scale.
+\newblock {\em Energy and Buildings}, 48:211--219, 2012.
+
+\bibitem{Dascalaki.2011}
+Elena~G. Dascalaki, Kalliopi~G. Droutsa, Constantinos~A. Balaras, and Simon
+  Kontoyiannidis.
+\newblock Building typologies as a tool for assessing the energy performance of
+  residential buildings -- a case study for the hellenic building stock.
+\newblock {\em Energy and Buildings}, 43(12):3400--3409, 2011.
+
+\bibitem{DIN.18599.V}
+{Deutsches Institut f\"{u}r Normung e. V}.
+\newblock Din~{V} 18599: {E}nergetische {B}ewertung von {G}eb\"{a}uden --
+  {B}erechnung des {N}utz-, {E}nd- und {P}rim\"{a}renergiebedarfs f\"{u}r
+  {H}eizung, {K}\"{u}hlung, {L}\"{u}ftung, {T}rinkwarmwasser und {B}eleuchtung:
+  {B}erechnung des {N}utz-, {E}nd- und {P}rim\"{a}renergiebedarfs f\"{u}r
+  {H}eizung, {K}\"{u}hlung, {L}\"{u}ftung, {T}rinkwarmwasser und {B}eleuchtung
+  {S}onderdruck 2012, 2011.
+
+\bibitem{Diefenbach.2010b}
+Nikolaus Diefenbach, Holger Cischinsky, Markus Rodenfels, and Klaus-Dieter
+  Clausnitzer.
+\newblock {\em Datenbasis Geb\"{a}udebestand: Datenerhebung zur energetischen
+  Qualit\"{a}t und zu den Modernisierungstrends im deutschen
+  Wohngeb\"{a}udebestand}.
+\newblock Institut Wohnen und Umwelt (IWU) and Bremer Energie Institut (BEI),
+  Darmstadt, 1. edition, 2010.
+
+\bibitem{Guo.2007}
+Jessica Guo and Chandra Bhat.
+\newblock Population synthesis for microsimulating travel behavior.
+\newblock {\em Transportation Research Record: Journal of the Transportation
+  Research Board}, 2014:92--101, 2007.
+
+\bibitem{Hrabovszky.2013}
+S\'{a}ra Hrabovszky-Horv\'{a}th, Tam\'{a}s P\'{a}lv\"{o}lgyi, Tam\'{a}s
+  Csoknyai, and Attila Talamon.
+\newblock Generalized residential building typology for urban climate change
+  mitigation and adaptation strategies: The case of {H}ungary.
+\newblock {\em Energy and Buildings}, 62:475--485, 2013.
+
+\bibitem{Kragh.2013}
+J.~Kragh and K.B. Wittchen.
+\newblock Development of two danish building typologies for residential
+  buildings.
+\newblock {\em Energy and Buildings}, 68, Part A:79 -- 86, 2013.
+
+\bibitem{Loga.2011}
+Tobias Loga, Nikolaus Diefenbach, and Rolf Born.
+\newblock {D}eutsche {G}eb\"{a}udetypologie: {B}eispielhafte {M}a{\ss}nahmen
+  zur {V}erbesserung der {E}nergieeffizienz von typischen {W}ohngeb\"{a}uden,
+  2011.
+
+\bibitem{Ma.2015}
+Lu~Ma and Sivaramakrishnan Srinivasan.
+\newblock Synthetic population generation with multilevel controls: A
+  fitness-based synthesis approach and validations.
+\newblock {\em Computer-Aided Civil and Infrastructure Engineering},
+  30(2):135--150, 2015.
+
+\bibitem{MunozH.2014.IBPSA-JP}
+M.~Esteban Mu\~noz H.
+\newblock A microsimulation approach to generate occupancy rates of small urban
+  areas.
+\newblock In {\em 2nd {A}sia {C}onference on {I}nternational {B}uilding
+  {P}erformance {S}imulation {A}ssociatio, {I}{B}{P}{S}{A} {J}apan}, Nagoya
+  University, Japan, 2014.
+
+\bibitem{MunozH.2015.heat}
+M.~Esteban Mu\~noz H.
+\newblock heat: {R} package to estimate heat demand of residential buildings.
+  github.com/emunozh/heat, 2015.
+
+\bibitem{MunozH.2015.MEQ}
+M.~Esteban Mu\~noz H.
+\newblock Construction of building typologies from a regional material catalog:
+  Assessment of urban heat demand and the environmental impact of retrofit
+  policies.
+\newblock {\em Management of Environmental Quality - An international journal},
+  --in Press--, 2016.
+
+\bibitem{MunozH.2015.IMA.Synthetic}
+M.~Esteban Mu\~noz H., Ivan Dochev, Hannes Seller, and Irene Peters.
+\newblock Constructing a synthetic city for estimating spatially disaggregated
+  heat demand.
+\newblock {\em International Journal of Microsimulation}, --in Press--, 2016.
+
+\bibitem{MunozH.2015.IMA.GREGWT}
+M.~Esteban Mu\~noz H., Robert Tanton, and Yogi Vidattama.
+\newblock A comparison of the {G}{R}{E}{G}{W}{T} and {I}{P}{F} methods for the
+  re-weighting of surveys.
+\newblock In {\em 5th World Congress of the International Microsimulation
+  Association ({I}{M}{A})}, 2015.
+
+\bibitem{MunozH.2015.GREGWTR}
+M.~Esteban Mu\~noz H., Yogi Vidyattama, and Robert Tanton.
+\newblock {G}{R}{E}{G}{W}{T}: an implementation of the {G}{R}{E}{G}{W}{T}
+  algorithm in {R}. github.com/emunozh/gregwt, 2015.
+
+\bibitem{MunozH.2015.IBPSA.Pop}
+M.~Esteban Mu\~noz H., Yogi Vidyattama, and Robert Tanton.
+\newblock The influence of an ageing population and an efficient building stock
+  on heat consumption patterns.
+\newblock In {\em 14th International Conference of the International Building
+  Performance Simulation Association ({I}{B}{P}{S}{A})}, 2015.
+
+\bibitem{ODonoghue.2014}
+Cathal O'Donoghue, Karyn Morrissey, and John Lennon.
+\newblock Spatial microsimulation modelling: a review of applications and
+  methodological choices.
+\newblock {\em International Journal of Microsimulation}, 7(1):26--75, 2014.
+
+\bibitem{Orcutt.1957}
+Guy~H. Orcutt.
+\newblock A new type of socio-economic system.
+\newblock {\em Review of Economics and Statistics}, 39(2):116--123, 1957.
+
+\bibitem{Pritchard.2012}
+DavidR. Pritchard and EricJ. Miller.
+\newblock Advances in population synthesis: fitting many attributes per agent
+  and fitting to household and person margins simultaneously.
+\newblock {\em Transportation}, 39(3):685--704, 2012.
+
+\bibitem{Rahman.2010}
+Azizur Rahman, Ann Harding, Robert Tanton, and Liu Shuangzhe.
+\newblock Methodological issues in spatial microsimulation modelling for small
+  area estimation.
+\newblock {\em International Journal of Microsimulation}, 3(2):3--22, 2010.
+
+\bibitem{SinghMohl.1996}
+A~Singh and C~Mohl.
+\newblock Understanding calibration estimators in survey sampling.
+\newblock {\em Survey Methodology}, 22:107–115, 1996.
+
+\bibitem{Singh.2013}
+Manoj~Kumar Singh, Sadhan Mahapatra, and Jacques Teller.
+\newblock An analysis on energy efficiency initiatives in the building stock of
+  {L}iege, {B}elgium.
+\newblock {\em Energy Policy}, 62:729--741, 2013.
+
+\bibitem{NRW.2010}
+{{S}tatistische \"{A}mter des {B}undes und der {L}\"ander}.
+\newblock Forschungsdatenzentren der statistischen \"{A}mter des bundes und der
+  l\"{a}nder --- {M}ikrozensus ({E}{V}{A}{S} 12211) --- 2010
+  {S}cientific-{U}se-{F}ile, 2010.
+
+\bibitem{NRW.2011}
+{{S}tatistische \"{A}mter des {B}undes und der {L}\"ander}.
+\newblock Statistisches bundesamt --- {Z}ensus 2011 --- {Z}ensusdatenbank,
+  2011.
+
+\bibitem{Tanton.2007}
+R.~Tanton.
+\newblock {spatialMSM}: The {A}ustralian spatial microsimulation model.
+\newblock In {\em The 1st General Conference of the International
+  Microsimulation Association}. 2007.
+
+\bibitem{Tanton.2014a}
+R.~Tanton, P.~Williamson, and A~Harding.
+\newblock Comparing two methods of reweighting a survey file to small area
+  data: generalised regression and combinatorial optimisation.
+\newblock {\em International Journal of Microsimulation}, 7(1):76--99, 2014.
+
+\bibitem{Tanton.2014}
+Robert Tanton.
+\newblock A review of spatial microsimulation methods.
+\newblock {\em International Journal of Microsimulation}, 7(1):4--25, 2014.
+
+\bibitem{Tanton.2011a}
+Robert Tanton, Yogi Vidyattama, Binod Nepal, and Justine McNamara.
+\newblock Small area estimation using a reweighting algorithm.
+\newblock {\em Journal of the Royal Statistical Society: Series A (Statistics
+  in Society)}, 174(4):931--951, 2011.
+
+\end{thebibliography}
