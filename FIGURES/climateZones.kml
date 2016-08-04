@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Maps exported from SAGA</name>
+    <description>System for Automated Geoscientific Analyses - www.saga-gis.org</description>
+    <GroundOverlay>
+      <name>01. VG250_Gemeinden</name>
+      <description><b>Map</b><table border="0"><tr><td>Name</td><td>01. VG250_Gemeinden</td></tr><tr><td>Layers</td><td>6</td></tr><tr><td>Coordinate System</td><td>Projected Coordinate System:
+Transverse_Mercator
+[+proj=tmerc +a=6378137.000000 +b=6356752.314140 +x_0=500000.0 +y_0=0.0 +lon_0=9.0 +k_0=0.9996 +lat_0=0.0 +no_defs]</td></tr></table></description>
+      <Icon>
+        <href>climateZones.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>6123083.432060</north>
+        <south>5214215.210540</south>
+        <east>1055273.148760</east>
+        <west>146404.927240</west>
+        <rotation>0.0</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+  </Folder>
+</kml>
